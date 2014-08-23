@@ -19,6 +19,10 @@ set nocompatible		" Turn off vi compatibility.
 
 set noexpandtab			" Do not expand tabs to spaces
 
+set number			" Show line numbers.
+
+set relativenumber		" Show relative line numbers.
+
 set hlsearch			" When there is a previous search pattern, highlight all
 				" its matches.
 
