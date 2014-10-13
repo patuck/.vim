@@ -39,4 +39,5 @@ set ruler			" Show the line and column number of the cursor position,
 
 set showcmd			" Show (partial) command in status line.
 
+syntax on			" Syntax highlighting.
 
