@@ -17,11 +17,11 @@ set backspace=2			" Backspace over indents and newlines
 
 set nocompatible		" Turn off vi compatibility.
 
-set noexpandtab			" Do not expand tabs to spaces
+"set noexpandtab		" Do not expand tabs to spaces
 
-set number			" Show line numbers.
+"set number			" Show line numbers.
 
-set relativenumber		" Show relative line numbers.
+"set relativenumber		" Show relative line numbers.
 
 set hlsearch			" When there is a previous search pattern, highlight all
 				" its matches.
@@ -39,4 +39,5 @@ set ruler			" Show the line and column number of the cursor position,
 
 set showcmd			" Show (partial) command in status line.
 
+syntax on			" Syntax highlighting.
 
