@@ -17,9 +17,9 @@ set backspace=2			" Backspace over indents and newlines
 
 set nocompatible		" Turn off vi compatibility.
 
-set noexpandtab			" Do not expand tabs to spaces
+"set noexpandtab		" Do not expand tabs to spaces
 
-set number			" Show line numbers.
+"set number			" Show line numbers.
 
 "set relativenumber		" Show relative line numbers.
 
